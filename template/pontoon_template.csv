@@ -1,0 +1,7 @@
+﻿group;name;factor;weight_kN;x_m;y_m;z_m
+self_weight;pontoon;1;85.43;3.86;0;0.38
+dead_load;steigermateriaal;3;1.05;3.86;3.81;5.83
+dead_load;bolder_b1;3;1.05;3.86;2.41;5.83
+live_load;natuursteen;1;4.4;3.858;2.505;8.9
+live_load;loopbelasting_boven;1;21.6;3.858;3.205;8.9
+live_load;loopbelasting_onder;0.5;21.6;3.858;3.205;0.9
